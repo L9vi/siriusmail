@@ -37,6 +37,15 @@ MANIFEST
 pip-log.txt
 pip-delete-this-directory.txt
 
+# OS generated files #
+######################
+.directory
+.gdb_history
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
 # Unit test / coverage reports
 htmlcov/
 .tox/
